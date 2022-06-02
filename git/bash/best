@@ -1,1 +1,2 @@
-"#!/bin/bash \necho "This School is so cool"
+#!/bin/bash 
+echo "This school is so cool"
